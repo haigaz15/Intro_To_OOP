@@ -1,0 +1,2 @@
+﻿SecondQuestion.obj : error LNK2005: _main already defined in FirstQuestion.obj
+C:\Users\Haigaz\Desktop\C++\Homework 7\Debug\Homework 7.exe : fatal error LNK1169: one or more multiply defined symbols found

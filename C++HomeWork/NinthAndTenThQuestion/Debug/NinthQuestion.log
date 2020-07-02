@@ -1,0 +1,6 @@
+﻿  Polynomial.cpp
+c:\users\haigaz\desktop\c++\ninthandtenthquestion\polynomial.h(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Polynomial.h
+c:\users\haigaz\desktop\c++\ninthandtenthquestion\polynomial.h(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  NinthQuestion.vcxproj -> C:\Users\Haigaz\Desktop\C++\NinthAndTenThQuestion\Debug\NinthQuestion.exe
